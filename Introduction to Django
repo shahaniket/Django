@@ -1,0 +1,10 @@
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+
+Steps to run:
+1) Install Django using Python
+2) Download / Clone the my Django repo
+3) Open cmd in the downloaded folder
+4) Run: python manage.py runserver
+5) server will be started on the localhost at port number 8000
+6) Hit http://127.0.0.1:8000/ on browser
+7) Welcome to the Python Django WebApp 
