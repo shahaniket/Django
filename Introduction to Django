@@ -1,4 +1,11 @@
+Django Framework:
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+
+Jinja Template:
+Jinja2 is a modern and designer-friendly templating language for Python, modelled after Django’s templates. It is fast, widely used and secure with the optional sandboxed template execution environment.So, basically it is used to merge multiple htlm snippet in single html snippet.We can add Python code in the html code.
+
+Bootstrap:
+Bootstrap is a popular framework for ccs work. It is simple, powerful and popular framework to make responsive web pages. 
 
 Steps to run:
 1) Install Django using Python
